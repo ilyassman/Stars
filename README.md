@@ -7,7 +7,7 @@ Cette application Android est une galerie de stars de cinéma, avec un écran d'
 - Écran d'accueil animé
 - RecyclerView pour afficher une liste de stars de cinéma
 - Système de notation pour chaque célébrité
-- Fonction de recherche permettant de filtrer les stars par nom
+- Fonction de recherche permettant de filtrer les stars par nom et genre
 - Option de partage de l'application
 - Boîte de dialogue pour modifier la note des stars
 
