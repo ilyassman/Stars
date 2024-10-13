@@ -23,3 +23,17 @@ Cette application Android est une galerie de stars de cinéma, avec un écran d'
 3. **StarAdapter** : Adaptateur personnalisé pour la RecyclerView, incluant la logique de filtrage.
 4. **Star** : Classe modèle représentant une star de cinéma.
 5. **StarService** : Classe de service Singleton pour gérer les données des stars.
+## Comment exécuter
+
+1. Clonez le dépôt sur votre machine locale.
+2. Ouvrez le projet dans Android Studio.
+3. Compilez et exécutez l'application sur un émulateur ou un appareil Android.
+
+## Configuration requise
+
+- Android Studio
+- SDK Android (Version 21 ou supérieure)
+- Gradle 
+
+## Screen Video
+[![Vidéo de démonstration]](https://github.com/user-attachments/assets/f8b0a184-652e-42b4-913b-e1ca7b670986)
